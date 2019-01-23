@@ -1,0 +1,2 @@
+# BackgroundLocationDemo
+长后台定位方案，已经集合了定位功能和长后台功能
